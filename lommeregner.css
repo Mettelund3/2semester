@@ -1,0 +1,38 @@
+button {
+    background-color: rgb(144, 203, 211);
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    outline: none;
+}
+
+button:hover {
+    background-color: greenyellow;
+}
+
+button:focus {
+    background-color: greenyellow;
+    border: 10px;
+    border-color: black;
+}
+
+#txt1 {
+    padding: 20px;
+    padding-left: 30px;
+
+}
+
+#txt2 {
+    padding: 20px;
+    padding-left: 30px; 
+}
+
+.p {
+    font-size: 50px;
+}
+
+#result {
+    padding: 20px;
+    padding-left: 30px;
+    
+}
